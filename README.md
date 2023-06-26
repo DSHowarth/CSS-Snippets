@@ -1,3 +1,3 @@
 # Collab-Mini-Project
 
-this is an edit
+I am creating a merge conflict.
